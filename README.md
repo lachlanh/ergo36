@@ -14,3 +14,15 @@ pro micro
 
 https://deskthority.net/workshop-f7/how-to-use-a-pro-micro-as-a-cheap-controller-converter-like-soarer-s-t8448.html
 
+software
+
+arduino
+https://github.com/blahlicus/animus-family
+
+pro micro schematic
+http://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Pro_Micro_v13b.pdf
+
+modify tmk to do the keyboard properly
+
+https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html
+https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html#p141386
